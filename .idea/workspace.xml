@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efdfb785-ab3c-4601-b4e3-d137b273f55d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/onlinejobportal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0002_auto_20200605_1634.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0003_recruiter_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0004_add_job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0005_auto_20200607_1452.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0006_add_job_skills.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/0007_apply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/skdslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/smoothbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/images/naukri_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/images/portal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/bars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/move-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/skdslider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/static/js/smoothbox.jquery2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/add_job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/admin_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/admin_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/admin_recruiter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/apply.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/assign_status.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/change_password_instruct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/course_section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/course_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/edit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/edit_profile_instruct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/job_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/latest_job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/loginadmin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/recruiter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/recruiter_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/recruiter_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/recruiter_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/recruiter_viewjob.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/signupuser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/user_home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/user_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/useredit_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/userlatest_job.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_apply.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_newrecruiter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_recruiter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_topic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/templates/view_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobportal/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Resume_LoveshGupta.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/WhatsApp_Image_2021-04-09_at_4.57.36_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/WhatsApp_Image_2021-04-09_at_4.58.21_PM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/amaz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/amaz_jChGaO2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinejobportal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinejobportal/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinejobportal/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/onlinejobportal/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hEivX4yazz2sLbG7ifeglWf7Qe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jobportal/static/images" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Preetam Soni\PycharmProjects\onlinejobportal\jobportal\static\images" />
+      <recent name="C:\Users\hp\Desktop\onlinejobportal\jobportal\templates" />
+      <recent name="C:\Users\hp\Desktop\onlinejobportal\jobportal\static" />
+      <recent name="C:\Users\hp\Desktop\onlinejobportal\jobportal" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efdfb785-ab3c-4601-b4e3-d137b273f55d" name="Default Changelist" comment="" />
+      <created>1591675169248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591675169248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617975657064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1617975657064" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1617884520058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617884520058" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jobportal/models.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jobportal/views.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

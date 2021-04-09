@@ -1,0 +1,35 @@
+{% extends 'carousel.html' %}
+{% block body1 %}
+{% load static %}
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.container {
+  position: relative;
+  max-width: 90%;
+  margin: 0 auto;
+  margin-bottom:3%
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+
+}
+</style>
+<br>
+
+{% endblock %}
